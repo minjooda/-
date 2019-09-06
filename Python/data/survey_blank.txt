@@ -1,0 +1,4 @@
+id gender bt age
+1 남자 A 23
+2 여자 B 21
+3 남자 A 34
